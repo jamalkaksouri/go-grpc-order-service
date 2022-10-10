@@ -6,6 +6,8 @@
 $ make proto
 ```
 
+## Create a new database named `order_svc`
+
 ## Running the app
 
 ```bash
